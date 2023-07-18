@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "langchain_sql_test"
-version = "0.0.1"
+version = "0.0.2"
 description = ""
 authors = ["Bagatur <baskaryan@gmail.com>"]
 license = "MIT"
